@@ -1,0 +1,568 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* ------------- header--------- */
+
+.header {
+    width: 100%;
+    height: 100vh;
+    background-image: url('image/nata4.jpg');
+    align-items: center;
+    justify-content: center;
+
+}
+
+header {
+    width: 100%;
+    height: 15%;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+     position: fixed;
+}
+
+.head1 {
+    width: 30%;
+    height: 40%;
+}
+
+.fa-music {
+    width: 100%;
+    height: 20px;
+    font-size: 100px;
+    padding-left: 45px;
+}
+
+.logo {
+    color: white;
+    font-size: 30px;
+}
+
+.p {
+    color: white;
+    font-size: 30px;
+}
+
+.nav {
+    width: 50%;
+    height: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav ul {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.nav ul li {
+    list-style-type: none;
+}
+
+.nav ul a {
+    color: aliceblue;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+a {
+
+    text-decoration: active;
+}
+
+.text {
+    width: 50%;
+    height: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.fa-search {
+    padding-left: 100px;
+}
+
+
+/* ------------section1--------- */
+
+.secti1 {
+    width: 100%;
+    height: 100vh;
+}
+
+.sar1 {
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.let {
+    width: 40%;
+    height: 90%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.let1 {
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.let2 {
+    font-size: 20px;
+    color: darkgrey;
+    text-align: center;
+}
+
+.let3 {
+    color: whitesmoke;
+    width: 200px;
+    height: 50px;
+    font-size: 19px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(212, 29, 84);
+}
+
+
+/* ---------- section2------- */
+
+.sary {
+    width: 101%;
+    height: 120vh;
+    margin-left: -22px;
+    background-color: orangered;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sa1 {
+    font-size: 100px;
+    color: aliceblue;
+}
+
+.sa2 {
+    font-size: 20px;
+    color: gray;
+}
+
+.sary2 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.a1 {
+    margin: 20px;
+}
+
+.a12 {
+    width: 29%;
+    height: 15%;
+    padding: 3px;
+    margin-top: -15px;
+    position: absolute;
+    background-color: darkgrey;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.a2 {
+    margin: 20px;
+}
+
+.a22 {
+    width: 29%;
+    height: 15%;
+    padding: 3px;
+    margin-top: -15px;
+    position: absolute;
+    background-color: darkgrey;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.a3 {
+    margin: 20px;
+}
+
+.a32 {
+    width: 29%;
+    height: 15%;
+    padding: 3px;
+    margin-top: -15px;
+    position: absolute;
+    background-color: darkgrey;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
+/* ------------section3 ---------*/
+
+.sect3 {
+    width: 100%;
+    height: 100vh;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.sar {
+    width: 100%;
+    height: 40vh;
+    border: 3pxsolid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bac1 {
+    width: 80%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.b1 {
+    width: 30%;
+    height: 100%;
+    background-color: orangered;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.b2 {
+    width: 30%;
+    height: 100%;
+    background-color: orangered;
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.b3 {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    flex-direction: column;
+}
+
+.fafa {
+    width: 200px;
+    font-size: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fa-star {
+    color: whitesmoke;
+}
+
+.sor1 {
+    width: 200px;
+    height: 20%;
+    text-align: center;
+}
+
+.so1 {
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+.so2 {
+    color: gainsboro;
+    font-size: 15px;
+}
+
+.nan {
+    width: 15%;
+    height: 5%;
+    padding: 3px;
+    margin-top: 250px;
+    position: absolute;
+    background-color: black;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
+/*===========================section4=========*/
+
+.sect4 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nar {
+    width: 50%;
+    height: 100%;
+    background-image: url('image/nata3.png');
+    background-size: cover;
+}
+
+.nor {
+    width: 50%;
+    height: 100%;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nor0 {
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nor1 {
+    text-align: center;
+    font-size: 19px;
+    color: gray;
+}
+
+.nor2 {
+    font-size: 60px;
+    color: whitesmoke;
+    font-family: fantasy;
+}
+
+.nor3 {
+    color: black;
+    width: 200px;
+    height: 50px;
+    font-size: 30px;
+    margin-left: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(65, 49, 49);
+}
+
+
+/*=======================section5======*/
+
+.sect5 {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ner {
+    width: 50%;
+    height: 100%;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nir {
+    width: 50%;
+    height: 100%;
+    background-image: url('image/nata2.png');
+    background-size: cover;
+}
+
+
+/*=======================section6======*/
+
+.whit {
+    width: 100%;
+    height: 100vh;
+    background-color: darkslategrey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.whit1 {
+    width: 80%;
+    height: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.whit2 {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.w1 {
+    width: 30%;
+    height: 40%;
+    margin: 50px;
+}
+
+.w2 {
+    width: 30%;
+    height: 40%;
+    margin: 60px;
+}
+
+.w3 {
+    width: 30%;
+    height: 40%;
+    margin: 50px;
+}
+
+.wi {
+    color: rgb(2, 2, 29);
+    font-size: 30px;
+}
+
+
+/*--------------section7----------*/
+
+.sect7 {
+    width: 100%;
+    height: 100vh;
+    background-image: url('image/nata2.png');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
+
+.fin {
+    width: 60%;
+    height: 1vh;
+    text-align: center;
+}
+
+
+/*----------------section8--------*/
+
+.sect8 {
+    width: 100%;
+    height: 70vh;
+    background-color: yellowgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+}
+
+.fin0 {
+    width: 80%;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.fin2 {
+    width: 80%;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fin3 {
+    width: 50%;
+    height: 50px;
+    background-color: rgb(197, 200, 202);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.fin4 {
+    width: 20%;
+    height: 50px;
+    background-color: rgb(214, 68, 117);
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+footer {
+    width: 100%;
+    height: 70vh;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact {
+    width: 20%;
+    height: 80%;
+    text-align: center;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact1 {
+    width: 20%;
+    height: 80%;
+    text-align: center;
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact2 {
+    width: 20%;
+    height: 80%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
